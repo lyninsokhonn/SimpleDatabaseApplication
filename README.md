@@ -1,5 +1,5 @@
-# SimpleDatabaseApplication
-Implementation of a simple database application with PostgreSQL
+# Simple Database Application
+# Implementation of a simple database application with PostgreSQL
 
 - Task 1 : Creating tables and inserting initial data
 <img width="173" alt="image" src="https://user-images.githubusercontent.com/56193486/174426750-3743c855-cadf-46c6-ab45-6a40fa8c7f81.png">
